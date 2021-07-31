@@ -1,0 +1,1 @@
+Create a free account on TeleSign and get your Username and Password.
