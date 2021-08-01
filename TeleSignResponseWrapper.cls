@@ -3,10 +3,10 @@
 */
 public with sharing class TeleSignResponseWrapper {
     public String external_id;
-	public String reference_id;
+    public String reference_id;
     public status status;
     public additional_info additional_info;
-	public class status {
+    public class status {
         public string code;
         public string updated_on;
         public string description  ;
